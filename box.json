@@ -1,13 +1,13 @@
 {
-    "name":"My Package",
-    "version":"0.1.0",
-    "author":"",
+    "name":"Commandbox CFLint",
+    "version":"0.2.0",
+    "author":"Mark Drew <mark.drew@gmail.com>",
     "location":"cybersonic/commandbox-cflint",
-    "homepage":"",
+    "homepage":"https://github.com/cybersonic/commandbox-cflint",
     "documentation":"",
     "repository":{
-        "type":"",
-        "URL":""
+        "type":"github",
+        "URL":"https://github.com/cybersonic/commandbox-cflint"
     },
     "bugs":"",
     "slug":"commandbox-cflint",
